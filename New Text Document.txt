@@ -1,0 +1,7 @@
+font-family:
+<i class="fas fa-camera"></i>
+<i class="fas fa-broom"></i>
+<i class="fas fa-video"></i>
+<i class="fas fa-paint-brush"></i>
+<i class="fas fa-egg"></i>
+<i class="fas fa-tty"></i>
